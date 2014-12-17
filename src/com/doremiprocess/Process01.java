@@ -1,4 +1,4 @@
-package com.doremi.test;
+package com.doremiprocess;
 
 import java.util.Arrays;
 import java.util.List;

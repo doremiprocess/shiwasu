@@ -1,4 +1,4 @@
-package com.doremi.test;
+package com.doremiprocess;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
